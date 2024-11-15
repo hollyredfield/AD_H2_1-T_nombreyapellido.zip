@@ -1,0 +1,13 @@
+REPORTE DE INVENTARIO - BOOKWORLD
+=====================================
+ISBN          TÍTULO                                   AUTOR                     PRECIO     STOCK   
+=====================================
+9788401020293 El nombre del viento                     Patrick Rothfuss          29,99      50      
+9788498387087 Cien años de soledad                     Gabriel García Márquez    24,99      30      
+9788466345346 El principito                            Antoine de Saint-Exupéry  15,99      100     
+9788420473635 Física Universitaria                     Sears Zemansky            79,99      25      
+9788498383621 1984                                     George Orwell             19,99      45      
+02382832      xd                                       xd                        28,00      22      
+123           1                                        xd                        29,00      2       
+
+Total de libros: 7
